@@ -1,6 +1,6 @@
 # Voxel Farm Incremental Clicker
 
-Created with [Omma](https://omma.build)
+Created with [Omma](https://omma.build).
 
 ## Setup
 
